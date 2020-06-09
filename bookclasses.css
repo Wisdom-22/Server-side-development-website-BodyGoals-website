@@ -1,0 +1,25 @@
+.upperSection{
+    text-align: center;
+    padding: 70px;
+	width:80%;
+	margin:0 auto;
+	
+	
+}
+.upperSection i{
+    margin: 2% , 2%;
+}
+h3{
+    text-align: center;
+    padding :30px;
+    font-weight: normal;
+}
+
+.upperSection p{
+   justify-content: justify;
+   font-size:small;
+}
+
+.textArea{
+	width:100%;
+}
