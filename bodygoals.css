@@ -1,0 +1,251 @@
+
+
+/*text-in-third-section class*/
+#page{
+    text-align: center;
+	background-color:white;			
+}
+.carosel-pic-1{
+    height:30%;
+    width :100%
+}
+#headernav{
+    padding: 30px;
+}
+.nav-link{
+    margin-left: 30px;
+}
+#carouselExampleFade{
+    text-align:center;
+    background-color:grey;
+
+}
+#dropdownMenu2{
+    text-decoration: none;
+}
+.icon{
+    color: white;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.class-and-events{
+    padding:50px;
+    text-align: center;
+    background-color: darksalmon;
+}
+
+/*section of testimonial*/
+.testimonial{
+	width:100%;
+	padding:2rem;
+	height:80%;
+	overflow:hidden;
+	
+	
+	
+}
+
+.container-for-testimonial{
+	width:100%;
+	height:80%;
+	overflow:hidden;
+	
+	
+}
+/*first testimonial*/
+
+
+.testimonial-text1{
+	float:left;
+	width:60%;
+	margin-top:14rem;
+	margin-bottom:1rem;
+	margin-left:5rem;
+	/*padding:2rem; */
+	
+	
+	
+}
+.testimonial-img1{
+	float:right;
+	width:23%;
+	margin-right:8rem;
+	/*margin-bottom:6rem; */
+	
+	
+}
+
+/*second testimonial*/
+.testimonial-text2{
+	float:right;
+	width:60%;
+	margin-top:14rem;
+	margin-bottom:1rem;
+	margin-right:2rem;
+	
+	
+}
+
+.testimonial-img2{
+	float:left;
+	width:30%;
+	margin-left:5rem;
+	/*margin-bottom:4rem; */
+	
+	
+}
+/*registration section*/
+.registration{
+	width:70%;
+	margin:0 auto;
+	margin-bottom:2rem;
+	margin-top:2rem;
+	
+	
+}
+
+.registration-textfield{
+	width:60%;
+	padding-right:3rem;
+}
+.labels-for-textbox{
+	float:left;
+}
+
+.submitbutton{
+	margin-top:3rem;
+	width:20%;
+	background-color:blue;
+	padding:0rem;
+}
+
+/*login section*/
+.registration-textfield-in-login{/*for the email field and password field in login page*/
+	width:40%;
+	margin:0 auto;
+}
+.login{
+	width:70%;
+	margin:0 auto;
+	margin-bottom:2rem;
+	padding-top:2rem;
+	padding-bottom:10rem;
+	
+
+	
+	
+}
+.loginbutton{
+	margin-top:3rem;
+	width:fit-content;
+	margin:0 auto;
+	margin-top:1rem; 
+	width:40%;
+	padding:0.3rem;
+	/*background-color:blue;
+	padding:0rem; */
+}
+
+/*Registration edit section*/
+.registration_edit{
+	margin:0 auto;
+	width:70%;
+	margin-bottom:7rem;
+	margin-top:7rem;
+	
+}
+.heading_paragraph{
+	width:60%;
+	margin:0 auto;
+	
+}
+/*developers section php section*/
+.developers{
+	width:100%;
+	margin:0 auto;
+	overflow:hidden;
+		
+}
+.container-for-developers{
+	width:90%;
+	margin:0 auto;
+	overflow:hidden;
+	margin-top:2rem;
+
+}
+.developers-text{
+	float:right;
+	width:75%;
+	margin-top:7rem;
+	margin-right:2rem;/*this line can go in case space is required */
+
+}
+.developers-img{
+	float:left;
+
+}
+/*testimonial validation*/
+.testimonials{
+	width:100%;
+	margin:0 auto;
+	overflow:hidden;
+	
+	
+}
+.testimonials-container{
+	width:90%;
+	margin:0 auto;
+	overflow:hidden;
+	margin-top:2rem;
+	
+	
+
+}
+.testimonial-text{
+	float:right;
+	width:60%;
+	margin-top:7rem;
+	margin-right:2rem;/*this line can go in case space is required */
+	margin-bottom:5rem;
+	
+	
+
+}
+.testimonial-img{
+	float:right;
+	max-width:5rem;
+	margin-right:2rem;
+	
+	
+
+}
+
+.testimonialImage{
+	margin-top:9rem;
+	
+
+}
+.testimonial-username{
+	width:15%;
+	margin-top:9rem;
+	float:right;
+	
+	
+}
+
+
+/*footer section */
+.footer{
+	background-color:RGB(55,65,73);
+	text-align: center;
+	padding:3rem;	
+}
+.footer i{
+	color:black;
+	margin-left: 10px;
+	float :left;
+}
+.footer ul li a{
+	color: black;
+	text-align: center;
+}
